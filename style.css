@@ -1,0 +1,28 @@
+body{
+background-color: lightblue;
+}
+
+#Score
+{
+font-size: larger;
+margin-right: 1300px;
+font-weight: 300;
+}
+
+#Timer
+{
+font-size: larger;
+font-weight: 300;
+}
+
+#Sketch_to_be_drawn
+{
+font-weight: 400;
+color: red;
+font-size: x-large;
+}
+
+#show_sketch
+{
+float:right
+}
